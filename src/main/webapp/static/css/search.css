@@ -1,0 +1,8 @@
+#searchform ul{
+    list-style: none;
+    display: inline;
+}
+#searchform ul li{
+    display: inline-block;
+}
+
